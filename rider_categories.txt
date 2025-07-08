@@ -1,0 +1,11 @@
+﻿rider_category_id,rider_category_name,is_default_fare_category
+E1,Empadronado Infantil,0
+E2,Empadronado Joven,0
+E3,Empadronado + 60 o Jubilados,0
+E4,Empadronado Discapacidad,0
+E5,Empadronado Carnet Social,0
+BC1,BusCyl Menores-15,0
+BC2,BusCyl Mayores-15,0
+AB1,Abono Transporte Ordinario,0
+AB2,Abono Transporte Especial,0
+UT1,Usuario Transporte,1

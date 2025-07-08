@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+La Regional Vallisoletana S.A,https://www.autocareslaregional.com/,es,es,20250704,20261231,12.2,info@autocareslaregional.com,https://www.autocareslaregional.com/att-cliente/dudas-y-sugerencias/

@@ -1,0 +1,6 @@
+﻿fare_id,price,currency_type,payment_method,transfers,agency_id
+Bono_desde_Valladolid_a_Arroyo,1.70,EUR,0,0,laregional
+Bono_Ordinario_en_Arroyo,0.60,EUR,0,0,laregional
+Empadronados_y_BusCyl,0.00,EUR,0,0,laregional
+Abono_Transporte_Ordinario,0.55,EUR,0,0,laregional
+Abono_Transporte_Especial,0.38,EUR,0,0,laregional
